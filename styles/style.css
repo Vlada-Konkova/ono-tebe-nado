@@ -83,6 +83,8 @@
 }
 
 .aligned-text {
+  display: flex;
+  flex-direction: column;
   color: #ffff;
   font-size: 100px;
   text-transform: uppercase;
